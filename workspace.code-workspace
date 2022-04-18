@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Applications/mampstack-7.4.20-1/apache2/htdocs/starcraft"
+		},
+		{
+			"path": "../../../../Applications/mampstack-7.4.20-1/apache2/htdocs/book"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "book"
+	}
+}
